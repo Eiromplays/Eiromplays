@@ -130,22 +130,21 @@
 <img style="margin: 5px;" src="https://github-readme-stats-eiromplays.vercel.app/api/top-langs/?username=eiromplays&hide_border=true&layout=compact&theme=dark" />
 </div>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  <!--START_SECTION:activity-->
+### :zap: Recent GitHub Activity
+<!--START_SECTION:activity-->
 1. 💪 Opened PR [#101](https://github.com/Kr4ken-9/NewEssentials/pull/101) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
 
 2. 💪 Opened PR [#523](https://github.com/openmod/openmod/pull/523) in [openmod/openmod](https://github.com/openmod/openmod)
   <!--END_SECTION:activity-->
-</details>
 
 <br/>  
 
 ### Spotify Playing 🎧
-<a href="https://open.spotify.com/user/zdm4gvpziccmae1xp2et72acs">
-    <img src="https://novatorem-eiromplays.vercel.app/api/spotify"/>
-</a>
+<div align="center">
+  <a href="https://open.spotify.com/user/zdm4gvpziccmae1xp2et72acs">
+      <img src="https://novatorem-eiromplays.vercel.app/api/spotify"/>
+  </a>
+</div>  
 <br/>
 
 ### Support Me  
