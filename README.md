@@ -128,16 +128,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
+  1. 💪 Opened PR [#101](https://github.com/Kr4ken-9/NewEssentials/pull/101) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
 
-1. 💪 Opened PR [#101](https://github.com/Kr4ken-9/NewEssentials/pull/101) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-
-2. 💪 Opened PR [#523](https://github.com/openmod/openmod/pull/523) in [openmod/openmod](https://github.com/openmod/openmod)
-1.
-2.
-3.
-4.
-5.
-<!--END_SECTION:activity-->
+  2. 💪 Opened PR [#523](https://github.com/openmod/openmod/pull/523) in [openmod/openmod](https://github.com/openmod/openmod)
+  <!--END_SECTION:activity-->
 
 <br/>  
 
