@@ -151,8 +151,10 @@ Coming soon.
 
 <br/>  
 
+### Spotify Playing 🎧
 <div align="center">
-  [![Spotify](https://novatorem-eiromplays.vercel.app/api/spotify)](https://open.spotify.com/user/Eiromplays)
+  [<img src="https://novatorem-eiromplays.vercel.app/api/spotify" />]
+  (https://open.spotify.com/user/zdm4gvpziccmae1xp2et72acs)
 </div> 
 <br/>  
 
