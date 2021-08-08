@@ -129,9 +129,9 @@
   
   <!--START_SECTION:activity-->
 
-</details>
+1. 💪 Opened PR [#101](https://github.com/Kr4ken-9/NewEssentials/pull/101) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
 
-<!--START_SECTION:activity-->
+2. 💪 Opened PR [#523](https://github.com/openmod/openmod/pull/523) in [openmod/openmod](https://github.com/openmod/openmod)
 1.
 2.
 3.
