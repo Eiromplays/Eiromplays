@@ -140,21 +140,13 @@
   <!--END_SECTION:activity-->
 </details>
 
-<br/>
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-Coming soon.
-<!-- BLOG-POST-LIST:END -->  
-
 <br/>  
 
 ### Spotify Playing 🎧
-<div align="center">
-  [<img src="https://novatorem-eiromplays.vercel.app/api/spotify" />]
-  (https://open.spotify.com/user/zdm4gvpziccmae1xp2et72acs)
-</div> 
-<br/>  
+<a href="https://open.spotify.com/user/zdm4gvpziccmae1xp2et72acs">
+    <img src="https://novatorem-eiromplays.vercel.app/api/spotify"/>
+</a>
+<br/>
 
 ### Support Me  
 <div align="center"><a href="https://www.buymeacoffee.com/eiromplays"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eiromplays" /></a><br /></div>  
