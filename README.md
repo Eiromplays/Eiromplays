@@ -128,8 +128,6 @@
 <div align="center">  
 <img style="margin: 5px;" src="https://github-readme-stats-eiromplays.vercel.app/api?username=eiromplays&show_icons=true&count_private=true&hide_border=true&theme=dark" /> 
 <img style="margin: 5px;" src="https://github-readme-stats-eiromplays.vercel.app/api/top-langs/?username=eiromplays&hide_border=true&layout=compact&theme=dark" />
-<img style="margin: 5px;" src="https://github-profile-trophy.vercel.app/?username=eiromplays&theme=onedark" height="150" />
-<img style="margin: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=eiromplays&theme=dark" height="200" />
 </div>
 
 <details>
