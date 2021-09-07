@@ -132,9 +132,9 @@
 
 ### :zap: Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/Kr4ken-9/NewEssentials/pull/101) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+1. 🎉 Merged PR [#1](https://github.com/Eiromplays/IdentityServer.Database/pull/1) in [Eiromplays/IdentityServer.Database](https://github.com/Eiromplays/IdentityServer.Database)
 
-2. 💪 Opened PR [#523](https://github.com/openmod/openmod/pull/523) in [openmod/openmod](https://github.com/openmod/openmod)
+2. 💪 Opened PR [#1](https://github.com/Eiromplays/IdentityServer.Database/pull/1) in [Eiromplays/IdentityServer.Database](https://github.com/Eiromplays/IdentityServer.Database)
   <!--END_SECTION:activity-->
 
 <br/>  
