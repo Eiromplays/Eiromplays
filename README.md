@@ -132,9 +132,9 @@
 
 ### :zap: Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Eiromplays/IdentityServer.Database/pull/1) in [Eiromplays/IdentityServer.Database](https://github.com/Eiromplays/IdentityServer.Database)
+1. 🎉 Merged PR [#2](https://github.com/Eiromplays/IdentityServer.Database/pull/2) in [Eiromplays/IdentityServer.Database](https://github.com/Eiromplays/IdentityServer.Database)
 
-2. 💪 Opened PR [#1](https://github.com/Eiromplays/IdentityServer.Database/pull/1) in [Eiromplays/IdentityServer.Database](https://github.com/Eiromplays/IdentityServer.Database)
+2. 💪 Opened PR [#2](https://github.com/Eiromplays/IdentityServer.Database/pull/2) in [Eiromplays/IdentityServer.Database](https://github.com/Eiromplays/IdentityServer.Database)
   <!--END_SECTION:activity-->
 
 <br/>  
