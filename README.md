@@ -130,15 +130,6 @@
 <img style="margin: 5px;" src="https://github-readme-stats-eiromplays.vercel.app/api/top-langs/?username=eiromplays&hide_border=true&layout=compact&theme=dark" />
 </div>
 
-### :zap: Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Eiromplays/IdentityServer.BusinessLogic/pull/1) in [Eiromplays/IdentityServer.BusinessLogic](https://github.com/Eiromplays/IdentityServer.BusinessLogic)
-
-2. 💪 Opened PR [#1](https://github.com/Eiromplays/IdentityServer.BusinessLogic/pull/1) in [Eiromplays/IdentityServer.BusinessLogic](https://github.com/Eiromplays/IdentityServer.BusinessLogic)
-  <!--END_SECTION:activity-->
-
-<br/>  
-
 ### Spotify Playing 🎧
 <div align="center">
   <a href="https://open.spotify.com/user/zdm4gvpziccmae1xp2et72acs">
