@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I am Eirik Sjøløkken (Eiromplays), A passionate full stack developer with focus on backend and Game development.</div>  
+### <div align="center">I am Eirik Sjøløkken (Eiromplays), A passionate full stack developer with focus on backend.</div>  
   
 
 - 🔭 I’m currently working on [Frozensoft Software](https://github.com/Frozensoft-Software/)  
   
 
-- 🌱 I am currently learning C++  
+- 🌱 I am currently learning C++
   
 
-- 🤔 I am sharpening my knowledge for: C#, ASP.NET Core, Blazor and Unity  
+- 🤔 I am sharpening my knowledge for: C#, ASP.NET Core, Blazor, Unity, JavaScript, TypeScript, NestJS
   
 
-- ❓ Ask me about C#, ASP.NET Core, Blazor and Unity  
+- ❓ Ask me about C#, ASP.NET Core, Blazor and Unity
   
 
 - ⚡ Fun fact: **I like coffee**  
