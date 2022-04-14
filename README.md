@@ -44,7 +44,7 @@
 
 <a href="https://github.com/eiromplays">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eiromplays&show_icons=true&theme=onedark&count_private=true" alt="Eiromplays's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiromplays&theme=onedark&layout=compact" 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiromplays&theme=onedark&layout=compact&langs_count=10&hide=ShaderLab,MakeFile,HLSL" 
     alt="Eiromplays GitHub Top Languages" />
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=eiromplays&theme=onedark" alt="eiromplays" />
 </a>
