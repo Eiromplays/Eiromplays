@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiromplays&theme=onedark" alt="eiromplays" /></a> 
-<a href="https://app.daily.dev/Eiromplays" target="_blank"><img src="https://api.daily.dev/devcards/c35e88ea468d438cbc4df5143c9546ee.png?r=zfp" width="300" alt="Eirik Sjøløkken's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/Eiromplays" target="_blank"><img src="https://api.daily.dev/devcards/c35e88ea468d438cbc4df5143c9546ee.png?r=zfp" width="250" alt="Eirik Sjøløkken's Dev Card" align="right"/></a>
 </p>
 
 - 🔭 I’m currently working on [Eiromplays.IdentityServer.Admin](https://github.com/Eiromplays/IdentityServer.Admin)
