@@ -14,7 +14,7 @@
 
 - 😀 I’m also working on [Frozensoft Software And Frozensoft.Auth](https://github.com/Frozensoft-Software/)
 
-- 🌱 I’m currently learning **C++, Python, Flask, Google Cloud Platform**
+- 🌱 I’m currently learning **Rust, Python, Google Cloud Platform (GCP) and Azure**
 
 - 💬 Ask me about **.NET (C#)**
 
