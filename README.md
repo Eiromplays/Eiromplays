@@ -20,7 +20,7 @@
 
 - 🤔 I am sharpening my knowledge for **.NET (C#)**
 
-- 👨‍💻 All of my projects are available at [https://eirik.frozensoftsoftware.com](https://eirik.frozensoftsoftware.com)
+- 👨‍💻 All of my projects are available at [https://eiromplays.com](https://eiromplays.com)
 
 - ⚡ Fun fact **I like coffee**
 
