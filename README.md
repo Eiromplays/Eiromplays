@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **.NET (C#)**
 
-- 🤔 I am sharpening my knowledge for **.NET (C#), Unity, JavaScript, Typescript**
+- 🤔 I am sharpening my knowledge for **.NET (C#)**
 
 - 👨‍💻 All of my projects are available at [https://eirik.frozensoftsoftware.com](https://eirik.frozensoftsoftware.com)
 
