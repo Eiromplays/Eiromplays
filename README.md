@@ -14,7 +14,7 @@
 
 - 😀 I’m also working on [Frozensoft Software](https://github.com/Frozensoft-Software/)
 
-- 🌱 I’m currently learning **Rust, Python, Google Cloud Platform (GCP) and Azure**
+- 🌱 I’m currently learning **Azure**
 
 - 💬 Ask me about **.NET (C#)**
 
