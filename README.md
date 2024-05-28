@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Eiromplays.IdentityServer.Admin](https://github.com/Eiromplays/IdentityServer.Admin)
 
-- 😀 I’m also working on [Frozensoft Software And Frozensoft.Auth](https://github.com/Frozensoft-Software/)
+- 😀 I’m also working on [Frozensoft Software](https://github.com/Frozensoft-Software/)
 
 - 🌱 I’m currently learning **Rust, Python, Google Cloud Platform (GCP) and Azure**
 
